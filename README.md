@@ -1,3 +1,7 @@
+# GraphQl React CodeGen Apollo Hooks Tutorial by Jey Huffine
+
+- [LINK](https://blog.logrocket.com/build-a-graphql-react-app-with-typescript/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
